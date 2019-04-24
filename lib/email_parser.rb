@@ -20,6 +20,8 @@ class EmailParser
   end
  end  
  
- #Notes: gsub regex 
+ #Notes: gsub regex - Returns a copy of str with the all occurrences of pattern substituted for the second argument.
+ #\s, includes white spaces with comma.
+ #" " includes the white space 
  
 
